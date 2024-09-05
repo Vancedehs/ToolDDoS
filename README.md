@@ -12,7 +12,7 @@ pkg install rust
 pkg install git
 pkg install python-cryptography
 pip install setuptools
-git clone https://github.com/NamBel12/ToolDDoS.git
+git clone https://github.com/Vancedehs/ToolDDoS.git
 cd ToolDDoS
 pip install -r requirements.txt
 python3 ddos.py
